@@ -4,3 +4,9 @@
 * {
     border: 1px solid red;
 }
+
+body {
+    background-image: url('../images/green.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

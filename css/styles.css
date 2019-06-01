@@ -3,11 +3,11 @@
 @import url("bootstrap.css");
 @import url('https://fonts.googleapis.com/css?family=Sirin+Stencil&display=swap');
 * {
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 body {
-    background-image: url('../images/green.jpg');
+    background-image: url('../images/abstract-wallpaper-18.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -30,4 +30,21 @@ h1 {
 p {
     font-family: cursive;
     font-size: 20px;
+}
+
+.btn-primary {
+    width: 150px;
+    background-color: rgb(240, 27, 98);
+    border: none;
+    border-radius: 0.3rem;
+    padding: 5px 0px;
+}
+
+.btn-primary:hover {
+    background-color: rgb(80, 79, 79);
+}
+
+.btn-primary:hover {
+    transition: transform 1s;
+    transform: skewX(-20deg);
 }

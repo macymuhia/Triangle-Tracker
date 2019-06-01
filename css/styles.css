@@ -2,9 +2,10 @@
 
 @import url("bootstrap.css");
 @import url('https://fonts.googleapis.com/css?family=Sirin+Stencil&display=swap');
-* {
-    /* border: 1px solid red; */
-}
+
+/* * {
+    border: 1px solid red;
+} */
 
 body {
     background-image: url('../images/abstract-wallpaper-18.jpg');

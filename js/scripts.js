@@ -1,7 +1,7 @@
 function validateResult() {
-    var firstSide = document.getElementById("first-side").value;
-    var secondSide = document.getElementById("second-side").value;
-    var thirdSide = document.getElementById("third-side").value;
+    var firstSide = parseFloat(document.getElementById("first-side").value);
+    var secondSide = parseFloat(document.getElementById("second-side").value);
+    var thirdSide = parseFloat(document.getElementById("third-side").value);
 
     var response = [];
 
@@ -11,10 +11,4 @@ function validateResult() {
     } else {
         alert("Kindly add three dimensions");
     }
-
-
-
-
-
-
 }

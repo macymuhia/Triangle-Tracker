@@ -1,6 +1,7 @@
 /*-------------IMPORTS-------------*/
 
 @import url("bootstrap.css");
+@import url('https://fonts.googleapis.com/css?family=Sirin+Stencil&display=swap');
 * {
     border: 1px solid red;
 }
@@ -19,4 +20,14 @@ body {
     padding: 20px 50px;
     margin-left: auto;
     margin-right: auto;
+}
+
+h1 {
+    font-family: 'Sirin Stencil', cursive;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: cursive;
+    font-size: 20px;
 }

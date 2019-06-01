@@ -21,9 +21,18 @@ function validateResult() {
             response[2] === response[0]) {
             alert("You have an isosceles triangle");
         } else {
-            alert("Not an equilateral or isosceles triangle");
+            alert("Those dimentions cannot form a triangle");
         }
     } else {
-        alert("Kindly add three dimensions");
+        alert("Kindly input three dimensions");
     }
+}
+
+function dimensionLogic() {
+    if (response[0] + response[1] > response[2] || response[1] + response[2] > response[0] || response[2] + response[0] > response[1]) {
+        alert("Those dimentions cannot form a triangle");
+    } else {
+        triangleName();
+    }
+
 }

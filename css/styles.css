@@ -10,3 +10,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.jumbotron {
+    margin-top: 30px;
+    opacity: 0.8;
+    text-align: center;
+    width: fit-content;
+    padding: 20px 50px;
+    margin-left: auto;
+    margin-right: auto;
+}

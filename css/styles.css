@@ -29,6 +29,10 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    font-family: 'Sirin Stencil', cursive;
+}
+
 * {
     font-family: cursive;
     font-size: 20px;
@@ -59,4 +63,9 @@ input {
     display: block;
     margin-bottom: 20px;
     margin-left: 0px;
+}
+
+img {
+    width: 175px;
+    height: 115px;
 }

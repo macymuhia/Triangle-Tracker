@@ -1,7 +1,7 @@
 # TRIANGLE TRACKER
 #### Screenshot
 ![Portfolio Webpage Screenshot](images/Screenshot.png)
-View and get your triangle type by feeding dimensions [here](https://macymuhia.github.io/My-Portfolio/)
+View and get your triangle type by feeding dimensions [here](https://macymuhia.github.io/Triangle-Tracker/)
 
 Last modified 2nd June 2019.
 #### By **Mercy Muhia**

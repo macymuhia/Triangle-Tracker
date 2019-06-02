@@ -69,3 +69,7 @@ img {
     width: 175px;
     height: 115px;
 }
+
+.row {
+    width: 100%
+}

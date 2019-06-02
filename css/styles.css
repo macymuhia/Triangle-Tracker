@@ -2,11 +2,6 @@
 
 @import url("bootstrap.css");
 @import url('https://fonts.googleapis.com/css?family=Sirin+Stencil&display=swap');
-
-/* * {
-    border: 1px solid red;
-} */
-
 body {
     background-image: url('../images/abstract-wallpaper-18.jpg');
     background-repeat: no-repeat;
@@ -35,7 +30,7 @@ h2 {
 
 * {
     font-family: cursive;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .btn-primary {
@@ -86,7 +81,7 @@ img {
 }
 
 .modal-body {
-    padding: 1rem 0.4rem;
+    padding: 1rem;
 }
 
 .btn-right {

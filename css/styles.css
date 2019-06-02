@@ -26,10 +26,10 @@ body {
 
 h1 {
     font-family: 'Sirin Stencil', cursive;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
-p {
+* {
     font-family: cursive;
     font-size: 20px;
 }

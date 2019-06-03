@@ -31,7 +31,9 @@ function triangleName() {
 }
 
 function dimensionLogic() {
-    if (response[0] + response[1] <= response[2] || response[1] + response[2] <= response[0] || response[2] + response[0] <= response[1]) {
+    if (response[0] + response[1] <= response[2] ||
+        response[1] + response[2] <= response[0] ||
+        response[2] + response[0] <= response[1]) {
         alert("Those dimensions cannot form a triangle");
     } else {
         triangleName();

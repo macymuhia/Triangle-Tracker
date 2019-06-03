@@ -29,6 +29,9 @@ Missing dimensions | 5, 5 | Kindly input three dimensions
 * open index.html file on your preferred browser
 ## Technologies Used
 HTML, CSS and Javascipt
+## Support and contact details
+To contribute, submit a pull request. 
+For questions or concerns, reach out on mercy8muhia@gmail.com
 ### License
 *MIT*
 

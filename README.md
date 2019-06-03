@@ -1,5 +1,4 @@
 # TRIANGLE TRACKER
-#### Screenshot
 ![Portfolio Webpage Screenshot](images/Screenshot.png)
 View and get your triangle type by feeding dimensions [here](https://macymuhia.github.io/Triangle-Tracker/)
 
@@ -35,4 +34,4 @@ For questions or concerns, reach out on mercy8muhia@gmail.com
 ### License
 *MIT*
 
-### &copy; 2019
+### &copy; 2019 Mercy Muhia
